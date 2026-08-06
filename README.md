@@ -1,6 +1,6 @@
 # Cloud Computing Course Repository
 
-> *A collection of activities, outputs, and learning resources for Cloud Computing*
+> *A collection of activities, outputs, and learning resources for CCM-101
 
 ## 📌 About This Repository
 
